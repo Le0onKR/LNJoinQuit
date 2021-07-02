@@ -1,0 +1,5 @@
+name: LNJoinQuit
+author: pju6791
+version: "1.0.0"
+api: ["1.0.11"]
+main: me.pju6791.LNJoinQuit.LNJoinQuit
