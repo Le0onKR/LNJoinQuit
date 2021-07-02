@@ -12,12 +12,6 @@ import me.pju6791.LNJoinQuit.LNJoinQuit;
 
 public class EventListener implements Listener {
 
-    public LNJoinQuit owner;
-
-    public void __construct(LNJoinQuit owner) {
-        this.owner = owner;
-    }
-
     public void onJoin(PlayerJoinEvent event) {
 
         Player player = event.getPlayer();
